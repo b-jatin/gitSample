@@ -1,0 +1,5 @@
+In this task,
+->I have installed GIT in my PC
+->I have created my GIT account 
+->I have created a repositary using git commands
+->I have added files to existing git and pushed them into remote server
